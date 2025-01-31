@@ -1,7 +1,7 @@
 # Neo4J & BPMN Project
 
 ## Project Description
-This project builds upon the **ER model** defined in the first project and extends it by designing a **graph representation** suitable for a **Neo4J database**. The key steps of this project include:
+This project builds upon the **ER model** defined in the first project and extends it by designing a **graph representation** suitable for a **Neo4J database**. Then a business process is modelled using the **BPMN** notation.
 
 ### Steps Followed:
 1. **Graph Design from ER Model**
