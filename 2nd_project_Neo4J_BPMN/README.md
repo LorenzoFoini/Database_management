@@ -5,8 +5,8 @@ This project builds upon the **ER model** defined in the first project and exten
 
 ### Steps Followed:
 1. **Graph Design from ER Model**
-   1.1 We transformed the **relational schema** into a **graph model**, representing tables as **nodes** and relationships as **edges**.
-   1.2 For a visualization of the graph structure, see `2nd_project_Neo4J_BPMN/Images/Neo4J_Graph.png`.
+   - We transformed the **relational schema** into a **graph model**, representing tables as **nodes** and relationships as **edges**.
+   - For a visualization of the graph structure, see `2nd_project_Neo4J_BPMN/Images/Neo4J_Graph.png`.
 3. **Cypher Code Implementation** - We wrote Cypher scripts to **create the graph** and **execute various queries** on Neo4J.
 4. **Business Process Modeling (BPMN)** - Based on a business process description provided by the professor (see `Assignment.pdf`), we modeled the process using the **BPMN notation**.
 
