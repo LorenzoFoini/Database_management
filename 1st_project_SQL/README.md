@@ -33,8 +33,8 @@ The project contains the following directories and files:
 ### `/Queries`
 - `.sql` files containing:
   - The **10 queries** developed for database interrogation.
-  - The SQL script for **table creation** (`Query_Create_Table.sql`).
-  - The SQL script for **data insertion** (`Query_Add_Value_To_Tables.sql`).
+  - `Query_Create_Table.sql`: The SQL script for **table creation**.
+  - `Query_Add_Value_To_Tables.sql`: The SQL script for **data insertion**.
 
 ### `Assignment.pdf`
 - The original project assignment document.
